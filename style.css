@@ -63,7 +63,7 @@ li{
 
 .card__descrição{
     display: flex;
-    justify-content: space-between;
+    justify-content: space-evenly;
 }
 
 .card__botões{
