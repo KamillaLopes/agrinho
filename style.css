@@ -64,6 +64,7 @@ li{
 .card__descrição{
     display: flex;
     justify-content: space-evenly;
+    align-items: center;
 }
 
 .card__botões{
