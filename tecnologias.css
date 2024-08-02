@@ -23,7 +23,7 @@ body{
 }
 
 
-.menu_list{
+.menu_lista{
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
