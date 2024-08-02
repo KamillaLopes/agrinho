@@ -29,7 +29,7 @@ body{
 }
 
 
-.menu_lista{
+.menu-lista{
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
@@ -37,11 +37,11 @@ body{
 
 }
 
-.menu_item{
+.menu-item{
     margin: 1.2em 5em;
 }
 
-.menu_link{
+.menu-link{
     color: var(--branco);
     padding: 1em;
     font-size: 20px;
@@ -65,23 +65,25 @@ li{
     padding: 30px;
 }
 
-.card__descrição{
+.card-descrição{
     display: flex;
     justify-content: space-evenly;
     align-items: center;
 }
 
-.card__botões{
+.card-botões{
     display: flex;
     justify-content: space-between;
 }
 
-.descrição__imagem{
+.descrição-imagem{
     width: 250px;
     height: 250px;
 }
 
-.botões__ancora {
+.descrição-texto
+
+.botões-ancora {
     background-color: var(--verde);
     padding: 1.1em 4.9em;
     color: var(--branco);
@@ -92,6 +94,7 @@ li{
 .quebra-de-linha{
     height: 100px;
 }
+
 
 @media screen and (max-width: 700px){
     .menu_link {font-size: 9px; font-weight: bold; position: relative; right: 30px;}
