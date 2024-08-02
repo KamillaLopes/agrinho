@@ -43,7 +43,6 @@ body{
 
 .menu-link{
     color: var(--branco);
-    padding: 1em;
     font-size: 20px;
     font-weight: 700;
     text-decoration: none;
