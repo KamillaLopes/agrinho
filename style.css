@@ -71,9 +71,12 @@ li{
     align-items: center;
 }
 
-.card-botões{
-    display: flex;
-    justify-content: space-between;
+card-título{
+    font-size: 35px;
+}
+
+.descrição-texto{
+    font-size: 25px;
 }
 
 .descrição-imagem{
@@ -81,8 +84,9 @@ li{
     height: 250px;
 }
 
-.descrição-texto{
-    font-size: 18px;
+.card-botões{
+    display: flex;
+    justify-content: space-between;
 }
 
 .botões-ancora {
