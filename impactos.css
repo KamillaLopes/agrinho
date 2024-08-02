@@ -28,7 +28,7 @@ body{
     flex-wrap: wrap;
     justify-content: center;
     padding: 0 30px;
-
+    align-items: center;
 }
 
 .menu_item{
