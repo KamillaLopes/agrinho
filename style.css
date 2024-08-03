@@ -96,6 +96,8 @@ h1{
 .descrição-imagem{
     width: 250px;
     height: 250px;
+    box-shadow: 4px 4px 4px var(--verde-escuro);
+    border-radius: 5px;
 }
 
 .card-botão{
@@ -104,12 +106,16 @@ h1{
 }
 
 .botão-ancora {
-    background-color: var(--verde);
+    background-color: var(--verde-escuro);
+    color: var(--branco);
     display: flex;
     padding: 1.1em 4.9em;
-    color: var(--branco);
+    margin-top: 10px;
     font-weight: 700;
     text-decoration: none;
+    box-shadow: 5px 5px 5px #717171;
+    border-radius: 10px;
+
 }
 
 .quebra-de-linha{
