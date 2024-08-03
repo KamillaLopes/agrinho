@@ -51,6 +51,21 @@ li{
     list-style-type: none;
 }
 
+.rodapé {
+    background-color: var(--cor-de-fundo);
+    padding: 1em;
+    height: 10px;
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.rodapé-título {
+    color: var(--verde-escuro);
+    font-size: 15px;
+}
+
 @media screen and (min-width: 320px),
 screen and (min-width: 480px),
 screen and (min-width: 600px),
