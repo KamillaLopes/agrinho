@@ -123,7 +123,7 @@ h1{
 }
 
 .rodapé{
-    background-color: var(--branco);
+    background-color: var(--cor-de-fundo);
     padding: 1em;
     height: 10px;
     display: flex;
