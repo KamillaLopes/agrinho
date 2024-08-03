@@ -56,21 +56,8 @@ li{
     border: none;
 }
 
+
 h1{
-    text-align: center;
-    font-size: 40px;
-    font-family: 'Kanity', sans-serif;
-    padding: 1em;
-}
-
-h2{
-    text-align: center;
-    font-size: 25px;
-    padding-left: 3em;
-    padding-right: 3em;
-}
-
-h3{
     text-align: center;
     font-size: 33px;
     font-family: 'Kanity', sans-serif;
@@ -85,9 +72,9 @@ h3{
     justify-content: center;
 }
 
-h4{
+h2{
     text-align: center;
-    font-size: 23px;
+    font-size: 25px;
     padding-left: 3em;
     padding-right: 3em;
 }
