@@ -106,7 +106,7 @@ h1{
 }
 
 .botão-ancora {
-    background-color: var(--verde-escuro);
+    background-color: var(--verde);
     color: var(--branco);
     display: flex;
     padding: 1.1em 4.9em;
