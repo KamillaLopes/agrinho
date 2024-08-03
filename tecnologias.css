@@ -86,6 +86,12 @@ h4{
     padding-right: 3em;
 }
 
+.imagens{
+    display:grid;
+    grid-template-columns: 20% 20% 20%;
+    padding-bottom: 5%;
+}
+
 .imagem{
     width: 30%;
     height: 30%;
