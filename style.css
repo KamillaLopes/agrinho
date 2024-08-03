@@ -114,6 +114,14 @@ h1{
     height: 100px;
 }
 
+.rodapé{
+    background-color: var(--branco);
+    padding: 1em;
+}
+
+.rodapé-título{
+    color: var(--roxo);
+}
 
 
 @media screen and (min-width:320px),
