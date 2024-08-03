@@ -16,7 +16,6 @@
 body{
     background-color: var(--cor-de-fundo);
     font-family: 'Kanity', sans-serif;
-    width: 100%;
 }
 
 .banner{
@@ -79,6 +78,7 @@ h1{
 
 .card-descrição{
     display: flex;
+    flex-wrap: wrap;
     justify-content: space-evenly;
     align-items: center;
 }
