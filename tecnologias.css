@@ -95,8 +95,8 @@ h4{
 }
 
 .imagem{
-    width: 30%;
-    height: 30%;
+    width: 100%;
+    height: 100%;
     box-shadow: 4px 4px 4px 4px var(--verde-escuro);
     border-radius: 5px;
 }
