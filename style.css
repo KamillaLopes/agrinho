@@ -16,6 +16,7 @@
 body{
     background-color: var(--cor-de-fundo);
     font-family: 'Kanity', sans-serif;
+    margin: 0%;
 }
 
 .banner{
