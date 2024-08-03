@@ -83,6 +83,7 @@ h2{
 .rodapé {
     background-color: var(--cor-de-fundo);
     padding: 1em;
+    padding-top: 5em;
     height: 10px;
     display: flex;
     flex-wrap: nowrap;
