@@ -99,6 +99,9 @@ h1{
 .card-botão{
     display: flex;
     justify-content: space-between;
+}
+
+.botõe-ancora {
     background-color: var(--verde);
     display: flex;
     padding: 1.1em 4.9em;
@@ -106,7 +109,6 @@ h1{
     font-weight: 700;
     text-decoration: none;
 }
-
 
 .quebra-de-linha{
     height: 100px;
