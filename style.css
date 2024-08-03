@@ -10,12 +10,13 @@
     --verde: #085d26;
     --verde-escuro: #195237;
     --verde-claro: #eafdeb;
+    --verde-claro2: #8bd7a6;
     --branco: #ffffff;
 
 }
 
 body{
-    background: linear-gradient(90deg, var(--verde), var(--verde-claro));
+    background-color: var(--verde-claro);
     font-family: 'Kanity', sans-serif;
     margin: 0%;
 }
@@ -136,7 +137,7 @@ h1{
 }
 
 .rodapé-título{
-    color: var(--branco);
+    color: var(--verde-escuro);
     font-size: 15px;
 }
 
