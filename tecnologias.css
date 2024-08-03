@@ -48,7 +48,8 @@ li{
 }
 
 .quebra-de-linha{
-    height: 400px;
+    height: 40px;
+    border: none;
 }
 
 h1{
