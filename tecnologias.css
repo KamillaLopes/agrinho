@@ -11,7 +11,7 @@
 }
 
 body{
-    background-color: var(--verde-degrade);
+    background: var(--verde-degrade);
     font-family: 'Kanity', sans-serif;
     margin: 0%;
 }
