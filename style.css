@@ -11,6 +11,7 @@
     --verde-escuro: #195237;
     --verde-claro: #e1f3e2;
     --verde-claro2: #8bd7a6;
+    --cor-texto: #243324;
     --branco: #ffffff;
 
 }
@@ -99,10 +100,12 @@ h1{
 .descrição-título{
     font-size: 25px;
     font-family: 'Josefin+Sans', sans-serif;
+    color: var(--verde-escuro);
 }
 
 .descrição-texto{
     font-size: 20px;
+    color: var(--cor-texto);
 }
 
 .descrição-imagem{
