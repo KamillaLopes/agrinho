@@ -76,6 +76,10 @@ li{
     color: var(--verde-escuro);
 }
 
+.tudo{
+    justify-content: center;
+}
+
 .texto{
     padding: 1.5em;
 }
@@ -85,8 +89,9 @@ li{
     font-size: 28px;
 }
 
-.tudo{
-    justify-content: center;
+.p2{
+    text-align: center;
+    font-size: 25px;
 }
 
 .card{
@@ -127,7 +132,7 @@ li{
     justify-content: space-between;
 }
 
-.botão-ancora {
+.botão{
     background-color: var(--verde);
     color: var(--branco);
     display: flex;
