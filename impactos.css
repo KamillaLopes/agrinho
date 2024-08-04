@@ -6,11 +6,12 @@
     --verde: #085d26;
     --verde-escuro: #195237;
     --branco: #ffffff;
+    --verde-degrade: linear-gradient(180deg, #085d26, #aaceb4);
 
 }
 
 body{
-    background-color: var(--cor-de-fundo);
+    background: var(--verde-degrade);
     font-family: 'Kanity', sans-serif;
     margin: 0%;
 }
@@ -96,7 +97,7 @@ h2{
 }
 
 .rodapé {
-    background-color: var(--cor-de-fundo);
+    background-color: #aaceb4;
     padding: 1em;
     padding-top: 5em;
     height: 10px;

@@ -6,7 +6,7 @@
     --verde: #085d26;
     --verde-escuro: #195237;
     --branco: #ffffff;
-    --verde-degrade: linear-gradient(97.54deg, #085d26, #aaceb4);
+    --verde-degrade: linear-gradient(180deg, #085d26, #aaceb4);
 
 }
 
@@ -107,7 +107,7 @@ h4{
 }
 
 .rodapé {
-    background-color: var(--cor-de-fundo);
+    background-color: #aaceb4;
     padding: 1em;
     height: 10px;
     display: flex;
