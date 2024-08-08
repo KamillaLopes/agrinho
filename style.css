@@ -136,31 +136,26 @@ li{
     justify-content: space-between;
 }
 
-.botão{
-    background-color: var(--verde);
-    color: var(--branco);
-    display: flex;
-    padding: 1.1em 4.9em;
-    margin-top: 10px;
-    font-weight: 700;
-    text-decoration: none;
-    box-shadow: 5px 5px 5px #717171;
-    border-radius: 10px;
-}
 
 button{
+    font-family: 'Kanit', sans-serif;
     background-color: var(--verde);
-    color: var(--branco)
+    color: var(--branco);
+    font-size: 20px;
     display: flex;
     justify-content: center;
-    padding: 1em;
-    font-size: 20px;
+    text-decoration: none;
     align-items: center;
     width: 100%;
-    border-bottom: 4px solid var(--verde2);
-    border-left: 2px solid var(--verde2);
-    border-right: 2px solid var(--verde2);
+    padding-top: 1em;
+    padding-bottom: 1em;
+    padding-left: 3.6em;
+    padding-right: 3.6em;
+    border-bottom: 5px solid var(--verde2);
+    border-right: 5px solid var(--verde2);
     border-top: none;
+    border-radius: 10px;
+
 }
 
 .quebra-de-linha{
