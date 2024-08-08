@@ -5,10 +5,12 @@
 :root{
     --cor-de-fundo: #c2e7cf;
     --verde: #085d26;
+    --verde2: #00832e;
     --verde-escuro: #195237;
+    --verde-claro: #e1f3e2;
+    --verde-claro2: #8bd7a6;
+    --cor-texto: #243324;
     --branco: #ffffff;
-    --verde-degrade: linear-gradient(180deg, #085d26, #aaceb4);
-
 }
 
 body{
@@ -65,7 +67,7 @@ h1{
     font-size: 33px;
     font-family: "Kanit", sans-serif;
     color: var(--branco);
-    background-color: var(--verde);
+    background-color: var(--verde2);
     box-shadow: 0px 5px 15px var(--verde);
     border-radius: 50px;
     height: fit-content;
