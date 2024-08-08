@@ -11,6 +11,7 @@
     --verde-claro2: #8bd7a6;
     --cor-texto: #243324;
     --branco: #ffffff;
+    --verde-degrade: linear-gradient(180deg, #085d26, #aaceb4);
 }
 
 body{
