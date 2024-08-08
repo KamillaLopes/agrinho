@@ -84,6 +84,8 @@ li{
 
 .texto{
     padding: 1.5em;
+    display: flex;
+    justify-content: center;
 }
 
 .parágrafo1{
