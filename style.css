@@ -147,6 +147,11 @@ li{
     box-shadow: 5px 5px 5px #717171;
     border-radius: 10px;
 
+    border-bottom: 4px solid var(--verde2);
+    border-left: 2px solid var(--verde2);
+    border-right: 2px solid var(--verde2);
+    border-top: none;
+
 }
 
 .quebra-de-linha{
