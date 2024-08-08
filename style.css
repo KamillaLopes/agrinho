@@ -84,8 +84,6 @@ li{
 
 .texto{
     padding: 1.5em;
-    display: flex;
-    justify-content: center;
 }
 
 .parágrafo1{
@@ -111,6 +109,11 @@ li{
     flex-wrap: wrap;
     justify-content: space-evenly;
     align-items: center;
+}
+
+.descrição{
+    display: flex;
+    justify-content: center;
 }
 
 .descrição-título{
