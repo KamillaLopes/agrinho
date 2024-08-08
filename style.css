@@ -111,15 +111,12 @@ li{
     align-items: center;
 }
 
-.descrição{
-    display: flex;
-    justify-content: center;
-}
-
 .descrição-título{
     font-size: 25px;
     font-family: "Kanit", sans-serif;
     color: var(--verde-escuro);
+    display: flex;
+    justify-content: center;
 }
 
 .descrição-texto{
