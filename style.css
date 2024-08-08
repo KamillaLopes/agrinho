@@ -172,9 +172,11 @@ screen and (min-width:480px),
 screen and (min-width:600px),
 screen and (min-width:768px),
 screen and (min-width:992px){
+
     body{
         width: 100%;
     }
+    
     .menu-lista{
         display: flex;
         flex-wrap: wrap;

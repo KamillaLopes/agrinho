@@ -127,7 +127,17 @@ screen and (min-width: 480px),
 screen and (min-width: 600px), 
 screen and (mid-width: 768px), 
 screen and (mid-width: 992px) {
+
     body{
     width: 100%;
+    }
+
+    .menu-lista{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        padding: 0 30px;
+        align-items: center;
+        font-size: 8px;
     }
 }
