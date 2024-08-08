@@ -141,7 +141,7 @@ li{
 }
 
 button{
-    font-family: 'Kanit', sans-serif;
+    font-family: "Kanit", sans-serif;
     background-color: var(--verde);
     color: var(--branco);
     font-size: 20px;
