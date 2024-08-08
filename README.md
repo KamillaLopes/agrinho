@@ -6,7 +6,7 @@ Nesse site será discutido assuntos relacionados ao tema, envolvendo tecnologia 
 
 **FONTES DE PESQUISA**
 
-*Relação Campo - Cidade*
+*Relação Campo - Cidade:*
 
 https://sme.goiania.go.gov.br/conexaoescola/eaja/geografia-relacoes-entre-o-campo-e-a-cidade/#:~:text=A%20rela%C3%A7%C3%A3o%20das%20atividades%20agropecu%C3%A1rias,o%20processamento%20de%20produtos%20agr%C3%ADcolas.
 
@@ -28,12 +28,12 @@ https://rehagro.com.br/blog/agricultura-de-precisao/?utm_term=&utm_campaign=%5BE
 
 
 
-*Biotecnologia na agricultura*
+*Biotecnologia na agricultura:*
 
 https://croplifebrasil.org/perguntas-frequentes/como-a-biotecnologia-pode-ser-aplicada-a-agricultura/#:~:text=Permite%2C%20ainda%2C%20um%20uso%20mais,com%20amido%20e%20compostos%20farmac%C3%AAuticos.
 
 
 
-*Impactos da tecnologia na agricultura*
+*Impactos da tecnologia na agricultura/*
 
 https://www.gecal.com.br/os-impactos-positivos-do-uso-de-tecnologia-na-agricultura#:~:text=O%20uso%20de%20tecnologia%20na,clima%20e%20sa%C3%BAde%20das%20plantas.
