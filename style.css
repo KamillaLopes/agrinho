@@ -46,6 +46,7 @@ body{
 
 .menu-link{
     color: var(--branco);
+    padding: 1em;
     font-size: 20px;
     font-weight: 700;
     text-decoration: none;
@@ -176,7 +177,7 @@ screen and (min-width:992px){
     body{
         width: 100%;
     }
-    
+
     .menu-lista{
         display: flex;
         flex-wrap: wrap;
