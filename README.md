@@ -34,6 +34,6 @@ https://croplifebrasil.org/perguntas-frequentes/como-a-biotecnologia-pode-ser-ap
 
 
 
-*Impactos da tecnologia na agricultura/*
+*Impactos da tecnologia na agricultura:*
 
 https://www.gecal.com.br/os-impactos-positivos-do-uso-de-tecnologia-na-agricultura#:~:text=O%20uso%20de%20tecnologia%20na,clima%20e%20sa%C3%BAde%20das%20plantas.
