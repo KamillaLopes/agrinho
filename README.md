@@ -1,4 +1,4 @@
-PROJETO AGRINHO 2024
+**PROJETO AGRINHO 2024**
 
 Desenvolvimento do projeto para o concurso Agrinho 2024.
 
