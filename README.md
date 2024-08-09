@@ -6,20 +6,20 @@ Nesse site será discutido assuntos relacionados ao tema, envolvendo tecnologia 
 
 **DESCRIÇÃO DO SITE**
 
-*PÁGINA INICIAL*
+*PÁGINA INICIAL:*
 Ao abrir a página principal, o visitante se depara com um cabebeçalho que contém três elementos. Ao clicar em qualquer um desses elementos, o usuário é redirecionado para uma nova página onde são abordados temas relacionados ao título em questão.
 Mais abaixo há um texto explicando a relação entre o campo e a cidade no contexto agrícola.
 Logo adiante, encontram-se dois banners que fornecem uma breve explicação sobre o tema do título. Ao lado do texto, há uma imagem que ilustra o assunto, e abaixo dessa imagem há um botão, que ao ser clicado, direciona o visitante para uma página onde o conteúdo é explicado com mais detalhes.
 Ao final da página, encontra-se um rodapé que apresenta o texto "Projeto Agrinho 2024".
 
-*PÁGINA "TECNOLOGIAS"*
+*PÁGINA "TECNOLOGIAS":*
 Ao acessar a página, o visitante depara-se com o mesmo cabeçalho da página inicial. 
 Mais adiante, há um texto que explica o conceito de biotecnologia. 
 Abaixo desse conteúdo, encontra-se uma explicação sobre agricultura de precisão. Em seguida, são
 exibidas quatro imagens ilustrativas de drones e tratores. 
 Ao final da página, encontra-se o mesmo rodapé da página inicial.
 
-*PÁGINA "IMPACTOS"*
+*PÁGINA "IMPACTOS":*
 Ao acessar a página, o visitante encontra o mesmo cabeçalho presente na página inicial.
 Logo abaixo, encontra-se um texto explicativo sobre como a tecnologia aplicada na agricultura contribui para a sustentabilidade ambiental.
 Em seguida, são apresentadas duas imagens ilustrativas de plantações.
